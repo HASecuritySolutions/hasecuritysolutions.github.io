@@ -1,0 +1,40 @@
+# Files to exclude from public GitHub repository
+
+# macOS system files
+__MACOSX/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Executable files (security tools should not be in public repo)
+*.exe
+*.msi
+*.dmg
+*.pkg
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Environment and configuration files (if any are added later)
+.env
+.env.local
+.env.production
+config.local.*
