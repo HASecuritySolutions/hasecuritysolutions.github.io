@@ -38,3 +38,6 @@ temp/
 .env.local
 .env.production
 config.local.*
+
+# AI stuff
+.github/copilot-instructions.md
