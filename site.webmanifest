@@ -1,0 +1,21 @@
+{
+    "name": "H&A Security Solutions LLC",
+    "short_name": "H&A",
+    "description": "Custom cybersecurity solutions including Extended Detection & Response and Managed Security Operations Center services",
+    "icons": [
+        {
+            "src": "assets/img/logo/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/logo/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#042C71",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/"
+}
